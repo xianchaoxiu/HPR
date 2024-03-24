@@ -1,7 +1,7 @@
 # Huber Phase Retrieval (HPR)
 
 
-The code in this toolbox implements the "Robust Sparse Phase Retrieval: New Model and Convergent Algorithm". 
+The code in this toolbox implements the "Solving Robust Sparse Phase Retrieval via Linearly Convergent Majorization-Minimization Algorithm". 
 
 
 ### Quick Testing
