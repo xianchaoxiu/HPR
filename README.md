@@ -6,7 +6,7 @@ The code in this toolbox implements the "Solving Robust Sparse Phase Retrieval v
 
 ### Quick Testing
 
-Directly run demo.m to simulate Laplace noise.
+Directly run demo.
 
 ### Citation
 Please give credit to this paper if this code is useful and helpful for your research.
