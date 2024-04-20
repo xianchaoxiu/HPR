@@ -12,7 +12,7 @@ Directly run demo.
 Please give credit to this paper if this code is useful and helpful for your research.
 
 ### Contact Information
-xcxiu@shu.edu.cn
+Xianchao Xiu: xcxiu@shu.edu.cn
 
 Department of Automation, Shanghai University
 
