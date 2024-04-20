@@ -8,7 +8,7 @@ The code in this toolbox implements "Solving Robust Sparse Phase Retrieval via L
 Directly run demo.m for reproduction.
 
 ### Citation
-Please give credit to this paper if this code is useful and helpful for your research.
+Please give credits to this paper if this code is useful and helpful for your research.
 
 
 ### Contact 
