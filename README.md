@@ -1,28 +1,15 @@
-# Huber Phase Retrieval (HPR)
+# HPR
 
 
 The code in this toolbox implements "Solving Robust Sparse Phase Retrieval via Linearly Convergent Majorization-Minimization Algorithm". 
 
 
-### Quick Testing
-
-Directly run demo.
+### Testing
+Directly run demo.m for reproduction.
 
 ### Citation
 Please give credit to this paper if this code is useful and helpful for your research.
 
-### Contact Information
-Xianchao Xiu: xcxiu@shu.edu.cn
 
-Department of Automation, Shanghai University
-
-
-
-
-
-
-
-
-
-
-
+### Contact 
+Please feel free to contact xcxiu@shu.edu.cn if you have any questions.
