@@ -1,7 +1,7 @@
 # HPR
 
 
-The code in this toolbox implements "Solving Robust Sparse Phase Retrieval via Linearly Convergent Majorization-Minimization Algorithm". 
+The code in this toolbox implements "Robust Sparse Phase Retrieval: Model, Theoretical Guarantee and Efficient Algorithm". 
 
 
 ### Testing
