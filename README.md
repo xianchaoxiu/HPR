@@ -1,6 +1,6 @@
 # HPR
 
-The code in this toolbox implements " Robust Sparse Phase Retrieval: Statistical Guarantee, Optimality Theory and Convergent Algorithm" by <i>J. Fan, A. Yan, X. Xiu, W. Liu</i>.
+The code in this toolbox implements "Robust Sparse Phase Retrieval: Statistical Guarantee, Optimality Theory and Convergent Algorithm" by <i>J. Fan, A. Yan, X. Xiu, W. Liu</i>.
 
 
 ### Testing
